@@ -1,0 +1,41 @@
+body {
+    background-color: #BFEDFF;
+    margin: 0;
+}
+
+#Rainbow {
+    height: 100%;
+    opacity: 1;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+    width: 100%;
+    z-index: -1;
+}
+
+#Rainbow .rainbow-color {
+    height: 20%;
+    margin-right: 20px;
+    width: 100%;
+}
+
+#Rainbow #blue {
+    background-color: #5BCEFA;
+}
+
+#Rainbow #pink {
+    background-color: #F5A9B8;
+}
+
+#Rainbow #white {
+    background-color: #FFFFFF;
+}
+
+#Rainbow #pink {
+    background-color: #F5A9B8;
+}
+
+#Rainbow #blue {
+    background-color: #5BCEFA;
+}

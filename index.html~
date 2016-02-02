@@ -1,0 +1,40 @@
+<!--The person responsible for this site is smd75jr-->
+<!--If you would like to get in touch, I can be found at: smd75jr@gmail.com-->
+<!--If you want to help with hosting bills, you can send bitcoin to: 1PrideFbH23VSeubDg1KYRMPBBWMUmQ24T -->
+<!--Or dogecoin to: DHHM35nAXB5FigCze13A3nghfpZA3CSy5M -->
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+   "http://www.w3.org/TR/html4/strict.dtd">
+<HTML>
+  <HEAD>
+    <LINK href="stylesheet.css" rel="stylesheet" type="text/css">
+  </HEAD>
+
+<div id="Rainbow">
+   <div id="blue" class="rainbow-color"></div>
+   <div id="pink" class="rainbow-color"></div>
+   <div id="white" class="rainbow-color"></div>
+   <div id="pink" class="rainbow-color"></div>
+   <div id="blue" class="rainbow-color"></div>
+</div>
+
+<body>
+
+<!-- Piwik -->
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//anal.smd75jr.com/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', 1]);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<noscript><p><img src="//anal.smd75jr.com/piwik.php?idsite=1" style="border:0;" alt="" /></p></noscript>
+<!-- End Piwik Code -->
+
+</body>
+
+</HTML>
